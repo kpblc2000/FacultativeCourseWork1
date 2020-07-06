@@ -190,5 +190,5 @@ namespace FacultativeCourseWork1.HomeWorkKulik
 			Console.ReadKey();
 		}
 	}
-	}
+	
 }
